@@ -24,7 +24,7 @@ class DoctorApp extends StatelessWidget {
       splitScreenMode: true,
       builder: (BuildContext context, widget) {
         return MaterialApp(
-          title: 'Doctor',
+          title: 'doctor',
           debugShowCheckedModeBanner: false,
           theme: ThemeData(
             scaffoldBackgroundColor: Colors.white,
